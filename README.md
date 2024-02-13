@@ -9,7 +9,7 @@ Welcome to the Data Science Assessment for the Python Internship. This repositor
 #### Question
 How can I predict the stock price of a company using LSTM in a Jupyter notebook or any other tool?
 #### Solution
-[Link to Stock Prediction Solution](link-to-solution-file)
+[Link to Stock Prediction Solution](https://github.com/Yashshah4536/PSYLIQ_PYTHON_INTERNSHIP/blob/main/TASK_01/StockPredictionLSTM.ipynb)
 
 ### 2. Titanic Classification
 #### Question
