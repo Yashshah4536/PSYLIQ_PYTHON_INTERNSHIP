@@ -15,7 +15,7 @@ How can I predict the stock price of a company using LSTM in a Jupyter notebook 
 #### Question
 How can I create a system to predict if a person will survive the Titanic sinking and identify key factors influencing survival like socio-economic status, age, and gender?
 #### Solution
-[Link to Titanic Classification Solution](link-to-solution-file)
+[Link to Titanic Classification Solution](https://github.com/Yashshah4536/PSYLIQ_PYTHON_INTERNSHIP/blob/main/TASK_02/TitanicSurvivalClassifiaction.ipynb)
 
 ### 3. Number Recognition
 #### Question
